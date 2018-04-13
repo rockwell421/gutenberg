@@ -254,6 +254,9 @@ Block_End
     };
   }
 
+Dynamic_Block
+  = "I AM DYNAMIC"
+
 Block_Name
   = Namespaced_Block_Name
   / Core_Block_Name
